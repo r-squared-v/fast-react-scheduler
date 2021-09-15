@@ -1,9 +1,10 @@
-# fast-react-scheduler
+# fast-react-scheduler [![last commit](https://img.shields.io/github/last-commit/r-squared-v/fast-react-scheduler)](https://github.com/r-squared-v/fast-react-scheduler/commit-activity)
 
-
-> scheduler
-> 
+[![watchers](https://img.shields.io/github/watchers/r-squared-v/fast-react-scheduler?style=social)](https://github.com/r-squared-v/fast-react-scheduler/watchers) 
 [![stars](https://img.shields.io/github/stars/r-squared-v/fast-react-scheduler?style=social)](https://github.com/r-squared-v/fast-react-scheduler/stargazers)
+[![fork](https://img.shields.io/github/forks/r-squared-v/fast-react-scheduler?style=social)](https://github.com/r-squared-v/fast-react-scheduler/network/members)
+
+
 
 ## Analysis
 
