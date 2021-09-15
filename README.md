@@ -3,9 +3,9 @@
 
 > scheduler
 > 
-[![stars](https://img.shields.io/github/stars/r-squared-v/fast-react-scheduler?style=social)](https://github.com/r-squared-v/fast-react-scheduler/graphs/stargazers)
+[![stars](https://img.shields.io/github/stars/r-squared-v/fast-react-scheduler?style=social)](https://github.com/r-squared-v/fast-react-scheduler/stargazers)
 
-##Analysis
+## Analysis
 
 [![NPM](https://img.shields.io/npm/v/fast-react-scheduler.svg)](https://www.npmjs.com/package/fast-react-scheduler) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
