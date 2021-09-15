@@ -31,7 +31,7 @@ class Example extends Component {
 MIT © [Raphael](https://github.com/Raphael)
 
 ## Contributor
-[![GitHub contributors](https://img.shields.io/github/contributors/fast-react-scheduler.svg)](https://github.com/r-squared-v/fast-react-scheduler.git)
+[![GitHub contributors](https://img.shields.io/github/contributors/fast-react-scheduler/badges.svg)](https://github.com/r-squared-v/fast-react-scheduler/graphs/contributors)
 
 <a href = "https://github.com/r-squared-v/fast-react-scheduler/graphs/contributors">
 <img src = "https://contrib.rocks/image?repo=r-squared-v/fast-react-scheduler" />
