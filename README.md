@@ -28,3 +28,10 @@ class Example extends Component {
 ## License
 
 MIT © [Raphael](https://github.com/Raphael)
+
+## Contributor
+
+<a href = "https://github.com/r-squared-v/fast-react-scheduler/graphs/contributors">
+<img src = "https://contrib.rocks/image?repo=r-squared-v/fast-react-scheduler" />
+</a>
+
