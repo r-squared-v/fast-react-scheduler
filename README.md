@@ -2,6 +2,10 @@
 
 
 > scheduler
+> 
+[![stars](https://img.shields.io/github/stars/r-squared-v/fast-react-scheduler?style=social)](https://github.com/r-squared-v/fast-react-scheduler/graphs/stargazers)
+
+##Analysis
 
 [![NPM](https://img.shields.io/npm/v/fast-react-scheduler.svg)](https://www.npmjs.com/package/fast-react-scheduler) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -26,9 +30,6 @@ class Example extends Component {
 }
 ```
 
-## License
-
-MIT © [Raphael](https://github.com/Raphael)
 
 ## Contributor
 [![GitHub contributors](https://img.shields.io/github/contributors/r-squared-v/fast-react-scheduler)](https://github.com/r-squared-v/fast-react-scheduler/graphs/contributors)
@@ -37,3 +38,6 @@ MIT © [Raphael](https://github.com/Raphael)
 <img src = "https://contrib.rocks/image?repo=r-squared-v/fast-react-scheduler" />
 </a>
 
+## License
+
+MIT © [Raphael](https://github.com/Raphael)
